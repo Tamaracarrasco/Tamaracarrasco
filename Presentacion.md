@@ -11,7 +11,7 @@ Estoy en mi segundo semestre de magíster y aprendiendo el uso de **Git y GitHub
   Proyecto que comencé en pregrado y en el que sigo trabajando con la esperanza de publicarlo en el futuro. Ha sido un desafío, pero con apoyo de mi co-guía sigo avanzando (no pierde la fe en mí)
 
 - **Cazadoras de Estrellas** ✨  
-  Fui parte de este proyecto de divulgación científica dirigido a estudiantes mujeres de enseñanza media interesadas en Astronomía. Gracias a él, desarrollé habilidades blandas, viajé a distintas regiones de Chile y me enorgullece contar que hoy es una fundación.  
+  Fui parte de este proyecto de divulgación científica dirigido a estudiantes mujeres de enseñanza media interesadas en Astronomía. Gracias a él, desarrollé habilidades blandas, viajé a distintas regiones de Chile y conocí gente muy bacán! Me enorgullece contar que hoy es una fundación. 
 
 - **Clases particulares**  
   En ocasiones realizo tutorías de Matemáticas y Física. Actualmente, mi único estudiante es mi hermano menor :heart: .  
@@ -28,20 +28,20 @@ Estoy en mi segundo semestre de magíster y aprendiendo el uso de **Git y GitHub
 
 ## :star: Sobre mí
 
-- **Arte**: Amo dibujar, aunque hoy no tengo tanto tiempo. Mis tesoros son mis 120 lápices **Faber-Castell Polychromos** .  
-- **Videojuegos**: Jugadora casual, principalmente de **juegos de pelea**. Mi favorito: *The King of Fighters*.  
-- **Música**: Gusto variado, desde pop hasta death metal. Mi banda favorita es **Powerwolf** 🐺⚡.  
-- **Natación**: Desde este año retomé este deporte, entreno 2 veces por semana y estoy en nivel intermedio 🏊.  
-- **Animé**: Fan de *Hunter x Hunter*. Espero que Togashi retome antes de que yo termine mi tesis.  
-- **Lectura**: Desarrollando el hábito para mejorar la atención. Último libro leído: *Sunrise of the Reaping* (Suzanne Collins).  
+- **Arte**: Amo dibujar, aunque hoy no tengo tanto tiempo. Mis tesoros son mis 120 lápices Faber-Castell Polychromos.  
+- **Videojuegos**: Jugadora casual, principalmente de juegos de pelea. Mi favorito: The King of Fighters.  
+- **Música**: Gusto variado, desde pop hasta death metal. Mi banda favorita es Powerwolf :wolf: lml.  
+- **Natación**: Desde este año volví a re-encontrarme con este deporte. Tomo clases 2 veces por semana y estoy en nivel intermedio .  
+- **Animé**: No soy otaku, pero igual estoy pendiente de algunas obras. Fan de Hunter x Hunter. Espero que Togashi retome antes de que yo termine mi tesis.  
+- **Lectura**: Desarrollando el hábito de leer para mejorar la atención. Último libro leído: *Sunrise of the Reaping*, por Suzanne Collins.  
 
 ---
 
 ##  Un poco más personal
 
 Tomé un año sabático para decidir qué camino seguir, y aunque aún no tengo todas las respuestas, me gusta lo que he aprendido en el magíster, a pesar de la dificultad.  
-En el primer semestre aprendí **técnicas de Machine Learning** y el enfoque de cómo analizar los resultados que uno obtiene al realizar un proyecto, por lo que espero aplicar ahora en nuevos proyectos.  
-✨ Wish me luck! ✨
+En el primer semestre aprendí técnicas de Machine Learning y el enfoque de cómo analizar los resultados que uno obtiene al realizar un proyecto, por lo que espero aplicar ahora en nuevos proyectos.  
+ Wish me mf luck
 
 ---
 
