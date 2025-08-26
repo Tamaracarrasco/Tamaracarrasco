@@ -46,5 +46,5 @@ En el primer semestre aprendí técnicas de Machine Learning y el enfoque de có
 ---
 
 ## CONTACTO
-Tengo linkedin pero está abandonado. Lo siento como una red muy falsa jsjsjs aunque debería ya tomarlo en consideración para elaborar un perfil profesional. Asi que una de mis metas es usarlo, por último como blog profesional.
+Tengo linkedin pero está abandonado, aunque debería ya tomarlo en consideración para elaborar un perfil profesional.
 - tamaracarrasco.agurto76@gmail.com
